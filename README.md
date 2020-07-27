@@ -17,6 +17,6 @@ Following packages are required to run ICO.
 * lightgbm
 
 ### Notes
-API and documentation are not available for now. Core functions can be found in HM.py. Some test examples mentioned in the paper can be found [here](). 
+API and documentation are not available for now. Core functions can be found in HM.py. Some test examples mentioned in the paper can be found [here](https://github.com/billxbf/Iterative-Constringency-Optimization/tree/master/examples). 
 
 Please contact me at billxbf@gmail.com if you are interested in working together on packaging and publishment.
