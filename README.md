@@ -16,5 +16,7 @@ Following packages are required to run ICO.
 * scipy
 * lightgbm
 
-### Running Test
+### Notes
 API and documentation are not available for now. Core functions can be found in HM.py. Some test examples mentioned in the paper can be found [here](). 
+
+Please contact me at billxbf@gmail.com if you are interested in working together on packaging and publishment.
